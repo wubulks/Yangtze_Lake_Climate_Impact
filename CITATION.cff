@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Codes for Lakes reshape the structure of temperature-humidity extremes and compound risks in a lake-rich region"
+authors:
+  - name: "Omarjan"
+doi: 10.5281/zenodo.20529762
+url: "https://github.com/wubulks/Yangtze_Lake_Climate_Impact"
+repository-code: "https://github.com/wubulks/Yangtze_Lake_Climate_Impact"
+license: MIT
+date-released: 2026-06-03
