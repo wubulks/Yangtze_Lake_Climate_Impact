@@ -2,9 +2,47 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata from this file."
 title: "Codes for Lakes reshape the structure of temperature-humidity extremes and compound risks in a lake-rich region"
 authors:
-  - name: "Omarjan"
+  - family-names: "Obulkasim"
+    given-names: "Omarjan"
+  - family-names: "Zhang"
+    given-names: "Shulei"
+  - family-names: "Zhang"
+    given-names: "Han"
+  - family-names: "Cheng"
+    given-names: "Shuo"
+  - family-names: "Liang"
+    given-names: "Xin-Zhong"
+  - family-names: "Shi"
+    given-names: "Kun"
+  - family-names: "Shi"
+    given-names: "Fangzhong"
+  - family-names: "Dai"
+    given-names: "Yongjiu"
 doi: 10.5281/zenodo.20529762
 url: "https://github.com/wubulks/Yangtze_Lake_Climate_Impact"
 repository-code: "https://github.com/wubulks/Yangtze_Lake_Climate_Impact"
 license: MIT
 date-released: 2026-06-03
+references:
+  - type: dataset
+    title: "Dataset for: Lakes reshape the structure of temperature-humidity extremes and compound risks in a lake-rich region"
+    authors:
+      - family-names: "Obulkasim"
+        given-names: "Omarjan"
+      - family-names: "Zhang"
+        given-names: "Shulei"
+      - family-names: "Zhang"
+        given-names: "Han"
+      - family-names: "Cheng"
+        given-names: "Shuo"
+      - family-names: "Liang"
+        given-names: "Xin-Zhong"
+      - family-names: "Shi"
+        given-names: "Kun"
+      - family-names: "Shi"
+        given-names: "Fangzhong"
+      - family-names: "Dai"
+        given-names: "Yongjiu"
+    doi: 10.5281/zenodo.20423736
+    date-released: 2026-05-28
+    repository: "https://zenodo.org/records/20423736"

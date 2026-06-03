@@ -2,6 +2,14 @@
 
 Codes for *Lakes reshape the structure of temperature-humidity extremes and compound risks in a lake-rich region*
 
+## Related Data
+
+The processed dataset used with these codes is available on Zenodo:
+[10.5281/zenodo.20423736](https://doi.org/10.5281/zenodo.20423736).
+
+Dataset title: *Dataset for: Lakes reshape the structure of temperature-humidity extremes and compound risks in a lake-rich region*.
+The dataset is released under the Creative Commons Attribution 4.0 International License.
+
 ## Project Structure
 
 ### Main scripts
