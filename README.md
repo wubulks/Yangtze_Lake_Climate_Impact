@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1258393518.svg)](https://doi.org/10.5281/zenodo.20529762)
+
 Codes for *Lakes reshape the structure of temperature-humidity extremes and compound risks in a lake-rich region*
 
 ## Project Structure
